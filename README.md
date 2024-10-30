@@ -59,3 +59,5 @@ Features
     Dungeons, Towers, Monuments
     - WASD = D-PAD Movement
     - E = D-PAD Interact
+
+    Credits: aethric_mod https://t.me/aethric_mod
